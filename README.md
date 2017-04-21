@@ -1,7 +1,7 @@
 SublimeLinter-contrib-tslint2
 ================================
 
-This linter plugin for [SublimeLinter][docs] provides an interface to [tslint](https://github.com/palantir/tslint). It will be used with files that have the “TypeScript 2” syntax. This plugin is based on [SublimeLinter-contrib-tslint][https://github.com/lavrton/SublimeLinter-contrib-tslint], but contains a lot of improvements to support `tslint` TypeScript 2 type-check functionality.
+This linter plugin for [SublimeLinter][docs] provides an interface to [tslint](https://github.com/palantir/tslint). It will be used with files that have the “TypeScript 2” syntax. This plugin is based on [SublimeLinter-contrib-tslint](https://github.com/lavrton/SublimeLinter-contrib-tslint), but contains a lot of improvements to support `tslint` TypeScript 2 type-check functionality.
 
 ## Installation
 SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 3 is not installed, please follow the instructions [here][installation].
