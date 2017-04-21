@@ -1,0 +1,17 @@
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+### Windows ###
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+
+### SublimeText ###
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
